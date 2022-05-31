@@ -1,0 +1,26 @@
+{
+  "name": "simple-api-nodejs",
+  "version": "1.0.0",
+  "description": "Ifts16 simple api NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzalezNacho/simple-api-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzalezNacho/simple-api-NodeJs/issues"
+  },
+  "homepage": "https://github.com/GonzalezNacho/simple-api-NodeJs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security"
+  }
+}
